@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: elecbuggy.website
+---
+testFramework: junit
+sourceLanguage: java
